@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.moulberry.exodus1427.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+      "FlatLevelSourceMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

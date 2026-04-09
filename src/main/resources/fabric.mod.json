@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "exodus1427",
+	"version": "${version}",
+	"name": "Exodus 14:27",
+	"description": "And Moses stretched forth his hand over the sea",
+	"authors": [
+		"Moulberry"
+	],
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "com.moulberry.exodus1427.Exodus1427"
+		]
+	},
+	"mixins": [
+		"exodus1427.mixins.json"
+	],
+	"depends": {
+		"minecraft": "*"
+	}
+}
