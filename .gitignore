@@ -30,7 +30,6 @@ bin/
 
 # fabric
 
-assets/
 run/
 
 # java
