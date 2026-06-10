@@ -7,6 +7,10 @@
 	"authors": [
 		"Moulberry"
 	],
+	"contributors": [
+		"Robella",
+		"Mogswamp"
+	],
 	"environment": "*",
 	"entrypoints": {
 		"main": [
